@@ -1,5 +1,5 @@
-# Valentine-s-Day-Cards-Spring2021
-This workshop will introduce you to HTML, CSS, and (a little bit of SVG) in order to create two cards or memes. 
+# Valentine's Day Cards, Spring 2021
+This workshop will introduce you to HTML, CSS, and (a little bit of SVG) in order to create two cards or memes:
 1. text with styling, and an animated svg element. 
 2. text over an image. 
 
