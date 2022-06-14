@@ -3,7 +3,7 @@ This workshop will introduce you to HTML, CSS, and (a little bit of SVG) in orde
 1. text with styling, and an animated svg element. 
 2. text over an image. 
 
-We then host them as websites on Github. After, we code buttons and embed them into emails so that you can send your loved one a pretty button that 'on click' takes them to your card or meme!
+We then host them as websites on Github. After, we code buttons and embed them into emails so that you can send your loved one a pretty button that 'on click' takes them to your card or meme! More information about the workshop event can be found [here](https://csc.barnard.edu/events/workshop-valentines-day-cards-and-memes-html-css).
 
 ----
 
